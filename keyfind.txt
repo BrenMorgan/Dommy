@@ -1,0 +1,7 @@
+win 10 Powershell key retrieve
+
+ (Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey
+
+
+Software for key recovery PC Audit win7,8,8.1
+https://www.belarc.com/en/products_belarc_advisor
