@@ -34,9 +34,13 @@ you should now have original cmd + Utilman + Utilman1 in the file system
   - OK NOW THE IMPRTANT BIT
   
   in the login screen at the bottom to the left of the power button is the Utilman (Utility Manager) 
-  this we changed to cmd earlier, so when you clcik it and command prompt will open.
-  Windows defender might pick up on this, so as soon as you click it and the command prompt open you quickly type
+  this we changed to cmd earlier, so when you click it the command prompt will open.
+  
+  Windows defender might pick up on this.
+  so as soon as you click it and the command prompt opens you quickly type
+  
   start cmd
+  
   this will open another command prompt which we will use to add an admin account
   first type
   
