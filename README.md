@@ -23,7 +23,7 @@ you should now have original cmd + Utilman + Utilman1 in the file system
  - Now you are booting original Win10 - now to bypass windows defender
  
  1. at login screen click the power button and Hold down SHIFT key and click restart
- This will start revovery options
+ This will start recovery options
  2. Click Troubleshoot then Advanced Options then Start-up Settings
  3. Click restart
  
