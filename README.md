@@ -45,9 +45,10 @@ you should now have original cmd + Utilman + Utilman1 in the file system
   add an admin account so first type
   
   whoami
+  
   it should say = NT authority\system
   
-  If so congrats you have admin console
+  - If so congrats you have admin console
   
   - now to create a new account and give it Admin Priv
   
