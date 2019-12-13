@@ -16,7 +16,7 @@ click and refresh and check you have two cmd files IE: cmd + cmd-copy
 11. Now scroll further down and find file called Utilman
 12. click once on it and right click and rename to Utilman1
 13. Right click and refresh, then go up to cmd-copy and change its name to Utilman <----(capital U)
-!4 again right click anywhere and click refresh
+14. again right click anywhere and click refresh
 you should now have original cmd + Utilman + Utilman1 in the file system
  - Now just close everything until you get to blue screen and click on "Continue" and remove USB
  
