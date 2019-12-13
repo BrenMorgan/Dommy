@@ -41,8 +41,8 @@ you should now have original cmd + Utilman + Utilman1 in the file system
   
   start cmd
   
-  this will open another command prompt which we will use to add an admin account
-  first type
+  this will open another command prompt which we will use to 
+  add an admin account so first type
   
   whoami
   it should say = NT authority\system
