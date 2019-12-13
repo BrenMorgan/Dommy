@@ -18,9 +18,9 @@ click and refresh and check you have two cmd files IE: cmd + cmd-copy
 13. Right click and refresh, then go up to cmd-copy and change its name to Utilman <----(capital U)
 !4 again right click anywhere and click refresh
 you should now have original cmd + Utilman + Utilman1 in the file system
- - Now just close everything until you get to blue screen and click on "Continue" and remove USB
+  Now just close everything until you get to blue screen and click on "Continue" and remove USB
  
- Now you are booting original Win10 - now to bypass windows defender
+ - Now you are booting original Win10 - now to bypass windows defender
  
  1. at login screen click the power button and Hold down SHIFT key and click restart
  This will start revovery options
@@ -43,6 +43,7 @@ you should now have original cmd + Utilman + Utilman1 in the file system
   now to create a new account and give it Admin Priv
   
   type this to open password dialoge box
+  
   control userpasswords2
   
   find the admin account and change password to what ever you like
