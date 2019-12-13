@@ -50,14 +50,7 @@ you should now have original cmd + Utilman + Utilman1 in the file system
   
   apply, ok restart and she is yours
   
-  
-######  ####### #     # #     #    #     #  #####     #     # ####### ####### 
-#     # #       ##    #  #   #     #     # #     #    ##    # #     #    #    
-#     # #       # #   #   # #      #     # #          # #   # #     #    #    
-#     # #####   #  #  #    #       #     #  #####     #  #  # #     #    #    
-#     # #       #   # #    #       #     #       #    #   # # #     #    #    
-#     # #       #    ##    #       #     # #     #    #    ## #     #    #    
-######  ####### #     #    #        #####   #####     #     # #######    #    
+  # DENY US NOT
  
 
 
