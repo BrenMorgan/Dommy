@@ -31,7 +31,7 @@ you should now have original cmd + Utilman + Utilman1 in the file system
  
   4. in startup settings choose 6 (enable safe mode with command prompt)
   
-  - OK NOW THE IMPRTANT BIT
+  - OK NOW THE IMPORTANT BIT
   
   in the login screen at the bottom to the left of the power button is the Utilman (Utility Manager) 
   this we changed to cmd earlier, so when you click it the command prompt will open.
