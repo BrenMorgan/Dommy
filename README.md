@@ -18,7 +18,7 @@ click and refresh and check you have two cmd files IE: cmd + cmd-copy
 13. Right click and refresh, then go up to cmd-copy and change its name to Utilman <----(capital U)
 !4 again right click anywhere and click refresh
 you should now have original cmd + Utilman + Utilman1 in the file system
-  Now just close everything until you get to blue screen and click on "Continue" and remove USB
+ - Now just close everything until you get to blue screen and click on "Continue" and remove USB
  
  - Now you are booting original Win10 - now to bypass windows defender
  
@@ -27,9 +27,11 @@ you should now have original cmd + Utilman + Utilman1 in the file system
  2. Click Troubleshoot then Advanced Options then Start-up Settings
  3. Click restart
  
- reboots into safe mode options
+ - reboots into safe mode options
+ 
   4. in startup settings choose 6 (enable safe mode with command prompt)
-  OK NOW THE IMPRTANT BIT
+  
+  - OK NOW THE IMPRTANT BIT
   
   in the login screen at the bottom to the left of the power button is the Utilman (Utility Manager) 
   this we changed to cmd earlier, so when you clcik it and command prompt will open.
@@ -37,10 +39,13 @@ you should now have original cmd + Utilman + Utilman1 in the file system
   start cmd
   this will open another command prompt which we will use to add an admin account
   first type
+  
   whoami
   it should say = NT authority\system
+  
   If so congrats you have admin console
-  now to create a new account and give it Admin Priv
+  
+  - now to create a new account and give it Admin Priv
   
   type this to open password dialoge box
   
